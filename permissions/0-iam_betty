@@ -1,2 +1,2 @@
 #!/bin/bash
-su betty
+echo 'betty_password' | su -c 'command1; command2' betty
