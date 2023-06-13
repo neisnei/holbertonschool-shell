@@ -1,1 +1,2 @@
-# holbertonschool-shell
+basics
+permissions
