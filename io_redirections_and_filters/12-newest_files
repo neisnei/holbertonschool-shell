@@ -1,2 +1,2 @@
 #!/bin/bash
-Is -t | head
+ls -1t | head
